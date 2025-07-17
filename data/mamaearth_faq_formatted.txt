@@ -1,0 +1,405 @@
+# tanish
+
+**1. How do I register for an account?**
+
+Request you to please:
+
+1.  Add a product to the cart and checkout using your registered phone
+    number only.
+
+2.  The moment you get to the payment page, your account will be
+    auto-created with the phone number and email you provided at
+    checkout (You need not to complete the payment).
+
+3.  Thereon, you can login using your phone number via OTP.
+
+# tanish
+
+**2. How can I track my order?**
+
+To track your orders, you can go to the **\"My Order\"** section from
+**\"My Account\"** or **\"My Profile\"** page on the top right corner.
+
+# tanish
+
+**3. My order is delayed, why haven\'t I received my order yet?**
+
+There might be a delay in your order due to courier issues or high order
+volume. To check the updated delivery date for your order, you can go to
+the **\'My Order\'** section from **\'My Account\'** or **\'My
+Profile\'** page on the top right corner.
+
+# tanish
+
+**4. Why have I only received some part of my order?**
+
+Your complete order might be arriving in different packages as your
+order is a split order. Your box of goodness is on its way.\
+To track your orders, you can go to the **\"My Order\"** section from
+**\"My Account\"** or **\"My Profile\"** page on the top right corner.
+
+# tanish
+
+**5. Fake delivery attempted / My order is returned without delivery
+attempt.**
+
+We are sorry to hear this, please reach out to our customer support for
+help.
+
+# tanish
+
+**6. What is the standard time of delivery?**
+
+We usually dispatch orders within 48 hours and it takes 3-4 days to get
+it delivered post shipped.
+
+# tanish
+
+**7. Order is showing delivered but I have not received the order.**
+
+Please wait for 48 hours from the order delivery date. If you still do
+not get the order, then kindly reach out to us on the **\"Contact Us\"**
+page for further investigation.
+
+# tanish
+
+**8. How do I cancel the order?**
+
+Please follow the steps below to cancel the order:
+
+1.  Go to the **\"Menu\"** (Top left corner -- 3 horizontal lines).
+
+2.  Go to **\"My Account\"**.
+
+3.  Click on **\"My Order\"**.
+
+4.  Click on **\"View Details\"** (Top right corner).
+
+5.  Scroll down to the bottom and click on **\"Cancel Order\"**.
+
+# tanish
+
+**9. How can I cancel my order after it has been shipped?**
+
+You may refuse to accept the order at delivery and we\'ll process the
+refund once the order is marked Return to Origin (RTO) by our courier
+partner. Unfortunately, we won\'t be able to cancel the order at this
+point of time as the order is in transit. Hope you understand.
+
+# tanish
+
+**10. How can I modify the delivery address?**
+
+We regret to inform you that once you have placed an order, we are
+unable to make any changes to it. Please cancel and place a new order.\
+If it\'s not shipped, you won\'t be able to cancel your order now, but
+you can refuse it at the time of delivery and you will get your refund
+if the order is already paid for.
+
+# tanish
+
+**11. How can I modify my order?**
+
+We regret to inform you that once you have placed an order, we are
+unable to make any changes to it. Please cancel and place a new order.\
+If it\'s not shipped, you won\'t be able to cancel your order now, but
+you can refuse it at the time of delivery and you will get your refund
+if the order is already paid for.
+
+# tanish
+
+**12. What is your return policy?**
+
+**Q. Under what conditions can I return/replace my product?**
+
+- Wrong product delivered
+
+- Expired product delivered
+
+- Damaged product delivered -- Physical damage / tampered product or
+  packaging
+
+- Incomplete order -- missing products
+
+**Q. Under what conditions return/replacement requests will not be
+accepted?**
+
+- Opened/used/altered products
+
+- Original packaging (mono cartons, labels, etc.) missing
+
+- The return/replacement request is generated after 7 days from the date
+  of delivery
+
+- The damaged/missing product is reported after 2 days from the date of
+  delivery
+
+In case of damaged/defective/incomplete order, please share the images
+of delivered product along with shipping label and reach out to us.\
+In quality issue, please share the images of delivered product along
+with batch ID, shipping label and affected area images and reach out to
+us on our **Support** page or **Chat with us**.
+
+# tanish
+
+**13. How do I return my order?**
+
+Please raise the return request by raising a query on the **Contact Us**
+page and share the reason for the return along with an image of the
+delivered items and shipping box.\
+Apologies for the inconvenience.
+
+# tanish
+
+**14. When will my order be returned?**
+
+It takes 3-4 working days for the order to reach our warehouse.
+
+# tanish
+
+**15. When will I receive my cashback?**
+
+On eligible orders, you will get the cashback in the Mamaearth wallet
+after seven days of delivery.
+
+# tanish
+
+**16. How can I use my cashback?**
+
+Please follow the below steps:
+
+1.  Login with your registered contact number on Mamaearth website or
+    app.
+
+2.  Add the product into your cart.
+
+3.  Click on **\"View Cart\"**.
+
+4.  Click on **\"Proceed to Payment\"** after adding your address
+    details.
+
+5.  Select the checkbox **\"Pay by Wallet\"** and it will utilize your
+    Mama cash to pay for 70% of the order below ₹1000.
+
+# tanish
+
+**17. I am not able to cancel my order**
+
+Your order is cancelable only before being shipped. Once it is shipped,
+you won\'t be able to cancel the order but don\'t worry -- you can
+refuse at the time of delivery and we\'ll process the refund once the
+order is marked Return to Origin (RTO) by our courier partner.
+
+# tanish
+
+**18. How can I update my order\'s mobile number?**
+
+We regret to inform you that once you have placed an order, we are
+unable to make any changes to it. Please cancel and place a new order.
+If it\'s not shipped, you won\'t be able to cancel your order now but
+you can refuse it at the time of delivery and you will get your refund
+if the order is already paid for.
+
+# tanish
+
+**19. What is Goodness Insider?**
+
+Goodness Insider is a Loyalty program from which you can get various
+benefits.
+
+** Benefits of Goodness Insider**
+
+1.  On every order get 2 sweet surprises.
+
+2.  No minimum purchase needed. We're serious.
+
+3.  Special Sale Days only for you. You can take 10X benefits of your
+    plan. Plans can be checked on the platform.
+
+# tanish
+
+**20. How to add Goodness Insider in the cart?**
+
+1.  Go to the cart page.
+
+2.  Select plans from the drop downs.
+
+3.  Click on \'Join now\' and the two free gifts will be added.
+
+# tanish
+
+**21. How does the referral program work?**
+
+1.  Share the referral link with your friends and family.
+
+2.  Once they sign up through the shared link, they will receive Rs. 100
+    in their wallet.
+
+3.  You will get Rs. 100 balance in your wallet on their first
+    successful order.
+
+# tanish
+
+**22. I want to collaborate with MamaEarth**
+
+Thank you for your interest in Mamaearth. Please contact us by email at
+collaboration@mamaearth.in.
+
+# tanish
+
+**23. I want to be a re-seller of Mamaearth**
+
+We regret to inform you that the reselling program is no longer
+available.
+
+# tanish
+
+**24. When will I see the results of using the products?**
+
+In general, you should use it for 3 to 8 weeks for the best results, and
+the rest of the results may vary depending on your skin type.
+
+# tanish
+
+**25. Please recommend a product for me to purchase.**
+
+You can browse through various sections on the website/app to find the
+best suited product for use.
+
+# tanish
+
+**26. How to un-subscribe (Mobile Number)**
+
+To Stop Receiving SMS Send STOP to 5757550. It will charge Rs 3 per SMS.
+Once you send the SMS, all promotional SMS will be stopped.
+
+# tanish
+
+**27. How to un-subscribe (Email Id)**
+
+For Email, go to the bottom of the email, you will see the option of
+\'If you\'d like to unsubscribe and stop receiving these emails click
+here\'. Click on it, you will be unsubscribed from the email list.
+
+# tanish
+
+**28. What toxins do, why should I avoid them?**
+
+Toxins are chemicals used in cosmetics and other products for various
+purposes, some as preservatives and others as dyes, fragrances, actives
+etc. Multiple studies have revealed that these toxins can have many side
+effects some of which are life-threatening. Constant use of some toxins
+like formaldehyde, 1-4 dioxane, parabens etc has found to be leading to
+cancer. Other side-effects include learning disabilities, eczema, skin
+aging & early puberty.
+
+# tanish
+
+**29. What are some of the toxins I can spot on the label**
+
+A small guide to common toxins is mentioned below, read the ingredients
+& try and avoid products especially for your baby with anything that
+has:
+
+- Parabens
+
+- Mineral oil
+
+- Fragrances (can contain phthalates)
+
+- PEG (Poly Ethylene Glycols)
+
+- Sodium Lauryl Sulfate/SLES
+
+- MEA, DEA, TEA (Ethanolamines)
+
+- Triclosan
+
+- Talc
+
+- Aluminium (may contain asbestos)
+
+- Artificial colors (E.g. Red 4, Yellow 5, Green 3 -- Food & Fragrance)
+
+# tanish
+
+**30. Can I transfer my cashback to my bank account**
+
+Under no circumstances will you be entitled to withdraw the eligible
+cashback amount into your bank account or otherwise ask for a cash
+withdrawal. The cashback amount will be applied as a discount for your
+eligible purchases. The cashback amount cannot be credited into any
+pre-paid instrument issued under applicable RBI laws.
+
+# tanish
+
+**31. What is the cashback\'s validity?**
+
+The cashback will be valid for 90 days from the date of credited. Check
+your profile or Email/ SMS for the actual expiry date of cashback.
+
+# tanish
+
+**32. How much cashback is available for use in a single order?**
+
+As per Cashback policy, the user is eligible to avail 70% of the order
+total, not more than Rs.1000, can be paid via mamacashp>
+
+# tanish
+
+**33. When will I get my refund?**
+
+Once the refund is initiated, it takes 5-7 working days from the date of
+processing, except for Saturday, Sunday, and national holidays. Usually
+the refund is credited earlier within 2 days. In case of any issues,
+please bring up the chargeback request with your bank\'s customer
+service team. To raise a request, you need to fill up a form and submit
+it to the bank (issuing bank). You will need to submit the transaction
+details along with the reason for raising the chargeback request.
+
+# tanish
+
+**34. How can I track my refund?**
+
+To check the status of your refund check \'My Order' section from your
+account. Once your order is canceled, please wait for 5-7 days for
+refund amount to reflect in your source account.
+
+# tanish
+
+**35. My payment has been deducted, but my order has not been confirmed**
+
+Due to certain reasons your order was not confirmed but don't worry any
+payment deducted will be refunded to your source account within 48
+hours. Any cashback/ wallet amount deducted will also be credited back
+into your wallet.
+
+# tanish
+
+**36. I am unable to make the payment.**
+
+Please try again after clearing your browser's cache and cookies. If you
+are still unable to pay, you can try a different payment method. You can
+also reach us via our support page or try chatting with us.
+
+# tanish
+
+**37. While my payment was unsuccessful, my cashback was deducted.**
+
+We apologize for the inconvenience, but please be assured that your
+wallet money will be refunded within the next 24 hours. Alternatively,
+you can raise the issue via chatting with us.
+
+# tanish
+
+**38. Do you accept international credit cards for payment?**
+
+We regret to inform you that we do not accept international credit
+cards.
+
+# tanish
+
+**39. Can I change my payment method**
+
+We regret to inform you that there are no modification options available
+once an order has been placed.
